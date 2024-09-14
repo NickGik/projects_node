@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "commonjs", 
+      "outDir": "dist", 
+      "target": "es2020", 
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "sourceMap": true, 
+      "strict": true,
+      "noImplicitAny": true 
+    },
+    "include": [
+      "action.ts"
+    ] 
+  }
